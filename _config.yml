@@ -3,6 +3,8 @@ description:
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-tactile
+zip_url: https://github.com/rashwell/neochess/releases/download/untagged-8d074ee4b4f73646a65d/neochess-windows-32bit-prototype.zip
+tar_url: #
 
 gems:
   - jekyll-mentions
